@@ -1,0 +1,12 @@
+cd Desktop\hola_mundo
+npm start
+
+
+*****************************************
+nuevo proyecto
+
+cd Desktop\ejercicios_app
+npm start
+
+*******************************
+npm install react-router-dom
